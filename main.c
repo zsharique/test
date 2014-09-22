@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 void printdetail(int x[]);
 void main()
 {
